@@ -1,6 +1,6 @@
 #title{
     color: Black;
-    font-size: 69px
+    font-size: 69px;
     
 }
 .header{
@@ -8,12 +8,17 @@
     height: 225px;
     width: 1141px;
     background-color: gray;
+    margin:0;
 }
 body{
+    height:1020;
     background-color:#b48484;
+    width:148;
+    margin-top:0;
 }
 figure{
     background-color:white;
+    margin:0;
 }
 ol {
     background-color: #63b0a7;
@@ -21,10 +26,6 @@ ol {
     height: 250%;
     width:20%;
     margin-top:0;
-    margin-left:551;
-    margin:0;
-}
-figure{
-    
+    margin-left:0;
     margin:0;
 }
