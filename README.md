@@ -13,3 +13,4 @@
   4. If this is a *Lab Assignment*, submit the URL of your repo to Canvas. If this is a *Practice or Pairing Lab*, you can open a PR to denote that you are done.
 
 **Note**: If you would like to make changes to the text, color scheme, or photo on this page, feel free. I'm most concerned with how closely you can match the _layout_ of the mockup.
+touch index
