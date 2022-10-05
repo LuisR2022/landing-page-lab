@@ -1,8 +1,24 @@
 #title{
-    color: green;
+    color: Black;
     font-size: 69px
     
 }
 .header{
     text-align: center;
+    height: 225px;
+    width: 1141px;
+    background-color: gray;
+}
+body{
+    background-color:#b48484;
+}
+figure{
+    background-color:white;
+}
+ol {
+    background-color: #63b0a7;
+    position:absolute;
+    height: 250%;
+    width:20%;
+    margin-top:0;
 }
